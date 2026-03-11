@@ -20,7 +20,7 @@ DHAN_BASE = "https://api.dhan.co"
 
 # ── Put your FREE Groq API key here ──────────────────────────────
 # Get it FREE at: console.groq.com → API Keys (no credit card!)
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "YOUR_GROQ_API_KEY_HERE")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
 # ─────────────────────────────────────────────────────────────────
 
 def dhan_headers(req):
